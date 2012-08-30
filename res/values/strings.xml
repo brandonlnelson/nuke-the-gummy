@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NukeTheGummyActivity!</string>
+    <string name="app_name">Nuke The Gummy</string>
+    <string name="pic">Picture of a gummy bear on a button. Click it.</string>
+    <string name="button">Button.</string>
+    <string name="txtbutton">Open</string>
+
+</resources>
